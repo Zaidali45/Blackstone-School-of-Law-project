@@ -1,0 +1,143 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.imagediv{
+    background: url('za.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    width:100%;
+    height: 700px;
+    position: relative;
+}
+.divtext{
+    color: rgba(0, 153, 255, 0.815);
+   margin-top: 30px;
+}
+.divtext h5{
+    font-size: 4rem;
+}
+.divtext p {
+    text-transform: uppercase;
+    font-size:2rem ;
+    color: black;
+    opacity: 0.5;
+}
+
+/* ***************************headerend********************* */
+/* .header2{
+    margin-top: 80px;
+    margin-bottom: 50px;
+ 
+} */
+/* .header2 h5{
+ text-transform: uppercase;
+ font-weight: bold;
+ word-spacing: 5px;
+ margin-top: 30px;
+ margin-bottom: 50px;
+} */
+@media screen (max-width:500px) {
+   .header2 img {
+                width:70%;
+    }
+}
+.para{
+    text-align: justify;
+}
+
+
+.part3 p{
+    text-align: justify;
+}
+.part3 h5{
+    word-spacing: 4px;
+    font-weight: bold;
+}
+/* .part4{
+    padding: 50px 30px 50px 30px;
+}
+.part4 h5{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+.part4 p{
+    text-align: justify;
+} */
+
+
+.part4{
+    padding: 70px;
+    
+
+}
+.part4 h7{
+    font-size: 2rem;
+}
+.part4 p{
+    text-align: justify;
+}
+.btn-4{
+    border: 2px solid black;
+    color: black;
+    background-color: white;
+    text-transform: uppercase;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.divdiv{
+    
+    
+    width: 35%;
+    height: 320px;
+    border: 2px solid black;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: black;
+}
+.divdiv h3{
+    text-transform: uppercase;
+    color: white;
+}
+.divdiv p{
+    text-align: justify;
+    color: white;
+}
+.bbtn{
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.text-text{
+    text-align: center;
+}
+.text-text h8{
+    font-size: 2rem;
+}
+.text-text form {
+    justify-content: center;
+}
+.formnew{
+    font-size: 3rem;
+}
+.btnbtn{
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+}
